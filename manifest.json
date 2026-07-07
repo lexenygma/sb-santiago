@@ -1,0 +1,9 @@
+{
+  "id": "santiago-de-los-caballeros",
+  "name": "Santiago de los Caballeros",
+  "version": "1.0.0",
+  "author": { "name": "Cris" },
+  "dependencies": {
+    "subway-builder": ">=1.0.0 <1.5.0"
+  }
+}
